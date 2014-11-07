@@ -1,0 +1,7 @@
+## Interface: 60000
+## Author: Infected Mushroom
+## Title: Resty
+## Version: 1.0
+## Notes: Displays combat res information
+
+main.lua
